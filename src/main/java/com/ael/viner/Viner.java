@@ -85,6 +85,11 @@ public class Viner {
               "vineable_limit":5,
               "vineable_blocks": [
                 "minecraft:oak_log",
+			    "minecraft:stone",
+			    "minecraft:granite",
+			    "minecraft:diorite",
+			    "minecraft:andesite",
+			    "minecraft:deepslate",
                 "minecraft:spruce_log",
                 "minecraft:birch_log",
                 "minecraft:jungle_log",
