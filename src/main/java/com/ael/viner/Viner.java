@@ -82,9 +82,14 @@ public class Viner {
     // default config for vineable blocks
     private static final String DEFAULT_CONFIG_VINEABLE = """
             {
-              "vineable_limit":5,
+              "vineable_limit":10,
               "vineable_blocks": [
                 "minecraft:oak_log",
+			"minecraft:stone",
+			"minecraft:granite",
+			"minecraft:diorite",
+			"minecraft:andesite",
+			"minecraft:deepslate",
                 "minecraft:spruce_log",
                 "minecraft:birch_log",
                 "minecraft:jungle_log",
